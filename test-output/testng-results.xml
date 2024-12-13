@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-13T20:48:59 IST" name="Default suite" finished-at="2024-12-13T20:49:05 IST" duration-ms="6699">
+    <groups>
+    </groups>
+    <test started-at="2024-12-13T20:48:59 IST" name="Default test" finished-at="2024-12-13T20:49:05 IST" duration-ms="6699">
+      <class name="Api.Automation.AppTest">
+        <test-method signature="createAnEmployee()[pri:0, instance:Api.Automation.AppTest@6572421]" started-at="2024-12-13T20:48:59 IST" name="createAnEmployee" finished-at="2024-12-13T20:49:02 IST" duration-ms="3544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAnEmployee -->
+        <test-method signature="deleteEmployee()[pri:0, instance:Api.Automation.AppTest@6572421]" started-at="2024-12-13T20:49:02 IST" name="deleteEmployee" finished-at="2024-12-13T20:49:03 IST" duration-ms="965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmployee -->
+        <test-method signature="fetchAllEmployeeData()[pri:0, instance:Api.Automation.AppTest@6572421]" started-at="2024-12-13T20:49:03 IST" name="fetchAllEmployeeData" finished-at="2024-12-13T20:49:04 IST" duration-ms="1084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchAllEmployeeData -->
+        <test-method signature="fetchAllEmployeeDataByID()[pri:0, instance:Api.Automation.AppTest@6572421]" started-at="2024-12-13T20:49:04 IST" name="fetchAllEmployeeDataByID" finished-at="2024-12-13T20:49:05 IST" duration-ms="1044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchAllEmployeeDataByID -->
+      </class> <!-- Api.Automation.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
